@@ -30,5 +30,6 @@ namespace CvEntityProje
         public virtual DbSet<TBLHAKKIMDA> TBLHAKKIMDA { get; set; }
         public virtual DbSet<TBLILETISIM> TBLILETISIM { get; set; }
         public virtual DbSet<TBLYETEMEKLER> TBLYETEMEKLER { get; set; }
+        public virtual DbSet<TBLADMIN> TBLADMIN { get; set; }
     }
 }

@@ -22,7 +22,10 @@
                             NavigateUrl='<%#"YetenekSil.Aspx?ID="+ Eval("ID") %>'>Sil</asp:HyperLink>
                     </td>
                    
-                    <td><a href="#" class="btn btn-success">Güncelle</a></td>
+                    <td>
+                        <asp:HyperLink ID="HyperLink2" runat="server" CssClass="btn btn-success" NavigateUrl='<%#"YetenekGuncelle.aspx?ID="+ Eval("ID") %>' >Güncelle</asp:HyperLink>
+
+                    </td>
                
                     </tr>
             </ItemTemplate>

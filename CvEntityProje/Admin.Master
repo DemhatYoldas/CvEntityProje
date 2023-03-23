@@ -19,13 +19,13 @@
 
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
             <!-- Brand/logo -->
-            <a class="navbar-brand" href="#">Demhat Yoldaş Cv</a>
+            <a class="navbar-brand" href="Default.Aspx">Demhat Yoldaş Cv</a>
             <!-- Links -->
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Eğitim Hayatım</a>
-                </li> 
-                
+                    <a class="nav-link" href="istatistik.aspx">İstatistikler</a>
+                </li>
+
                 <li class="nav-item">
                     <a class="nav-link" href="#">Deneyimler</a>
                 </li>
@@ -35,7 +35,7 @@
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="#">İletişim</a>
+                    <a class="nav-link" href="İletisim.Aspx">İletişim</a>
                 </li>
 
             </ul>

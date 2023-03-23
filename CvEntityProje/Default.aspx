@@ -31,7 +31,7 @@
     <div class="sidenav text-center">
 		<div class="side_top">
 			<img src="/web/images/about.jpg" alt="news image" class="img-fluid navimg">
-			<h1 class="top_hd mt-2"><a href="index.html">Demhat Yoldaş</a></h1>
+			<h1 class="top_hd mt-2"><a href="https://www.linkedin.com/in/demhatyoldas/">Demhat Yoldaş</a></h1>
 			<p class="top_hdp mt-2">Software Developer</p>
         </div>
 		<!-- header -->
